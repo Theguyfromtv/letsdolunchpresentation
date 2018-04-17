@@ -1,0 +1,43 @@
+local_header( {
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-55-17 17:4:6",
+  "loopSlideshow" : 0,
+  "filename" : "Lunch presentation",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "Lunch presentation",
+  "showMode" : 0,
+  "creator" : "Apple Keynote 8.0",
+  "slideList" : [
+    "7D643FA7-9A1F-45A5-A30F-7828735F3C35",
+    "1FA8E32F-C720-428D-B323-CB07D1413617",
+    "35DD11C1-EC04-4D23-BD54-FC8B60CA1243",
+    "EB90E732-3202-4D73-8522-EF24AF7A46D5",
+    "EFBA78BC-1F41-4E66-A7CB-15CE5BD4F73A",
+    "F9A0D2AC-0402-494E-B402-91FF6F920398",
+    "F60467B2-2D48-4BAB-8327-70A3260E9745",
+    "D918AF9A-D850-473C-98B7-109E06E198A7",
+    "3576F738-1A96-491E-976F-799C3A01BFA9"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 1024,
+  "slideHeight" : 768,
+  "slideCount" : 9,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "Helvetica-Light",
+    "HelveticaNeue-Light",
+    "HelveticaNeue-Bold",
+    "HelveticaNeue-Italic",
+    "HelveticaNeue",
+    "HelveticaNeue-Thin",
+    "Helvetica",
+    "GillSans",
+    "HelveticaNeue-Medium"
+  ]
+} )
